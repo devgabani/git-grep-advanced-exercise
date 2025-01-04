@@ -1,1 +1,1 @@
-# git-grep-advanced-exercise
+# Git Grep Advanced Exercise
